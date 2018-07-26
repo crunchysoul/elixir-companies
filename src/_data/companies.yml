@@ -1793,3 +1793,9 @@ iwantmyname:
   jobs:
     - title: Elixir/Erlang developer
       url: https://iwantmyname.com/jobs/elixir
+
+Isobar Australia:
+  industry: Marketing/Advertising/Sales/Technology Consulting
+  url: https://www.isobar.com/au/en/
+  location: Melbourne, Australia
+  description: "We are a global agency that delivers digital transformation, powered by creativity. We solve complex business challenges through digital marketing, ecosystems and products, driving digital strength and brand loyalty. Our clients include Coca-Cola, adidas, Enterprise, P&G, Philips and Huawei. We use Elixir/Phoenix, React and React Native to build high performance Mobile and Web apps across industries."
